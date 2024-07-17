@@ -4,7 +4,7 @@ Hi 👋 My name is Võ Thị Mai Hoa
 Software Developer
 ------------------
 
-My passion is working with databases and backend coding, especially in web applications. I have a long-standing enthusiasm for mathematics and a want to acquire and use Maths in my projects.
+My passion is working with databases and backend coding, especially in web applications. I also have a long-standing enthusiasm for mathematics and a want to acquire and use Maths in my projects.
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [vothimaihoa123@gmail.com](mailto:vothimaihoa123@gmail.com)
