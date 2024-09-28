@@ -9,6 +9,7 @@ My passion is working with databases and backend coding, especially in web appli
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [vothimaihoa123@gmail.com](mailto:vothimaihoa123@gmail.com)
 * 🧠  I'm learning Backend Coding
+* 🧠  I'm also a newbie in the field of AI and am learning more from others. 
 * 🤝  I'm open to collaborating on any interesting projects
 
 ### Skills
