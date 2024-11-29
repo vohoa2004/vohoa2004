@@ -29,5 +29,3 @@ I'm passionate about leveraging technology to solve problems. I also have a long
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/vohoa2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vohoa2004&stroke=6366f1&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
-<a href="https://github.com/vohoa2004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vohoa2004&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
