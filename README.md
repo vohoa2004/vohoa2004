@@ -16,7 +16,7 @@ I'm passionate about leveraging technology to solve problems. I also have a long
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,azure,java,spring,cs,dotnet,python,c,cpp,mongodb,mysql,html,css,js,ts,react,nextjs,figma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,azure,java,python,c,cpp,cs,spring,dotnet,mongodb,mysql,html,css,js,ts,react,nextjs,figma" />
   </a>
 </p>
 
